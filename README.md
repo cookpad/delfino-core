@@ -1,5 +1,6 @@
-<h1 align="center" style="border-bottom: none;"> 🔌&nbsp;&nbsp;Delfino Core&nbsp;&nbsp; 🔌</h1>
-<h3 align="center">A <a href="https://github.com/radeklat/delfino">Delfino</a> plugin with core functionality.</h3>
+<div align="center"> 
+<h1 style="border-bottom: none;"> 🔌&nbsp;&nbsp;Delfino Core&nbsp;&nbsp; 🔌</h1>
+<h3>This is a backup of <a href="https://github.com/radeklat/delfino-core">an upstream repository</a> via a fork.</h3>
 
 <p align="center">
     <a href="https://app.circleci.com/pipelines/github/radeklat/delfino-core?branch=main">
